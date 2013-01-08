@@ -4,15 +4,11 @@ jQuery Preloader
 This jQuery plugin preloads contents (css, js, html, images etc) with visual loader, fast and very small (~7Kb, not minified).
 
 
-New for BETA 4
+New for BETA 4.1
 ---------------
 
-* Easier file adding (no need to add file type)
-* Extendable file type association
-* May work with almost any type of content
-* Enable cache for each file
-* Callback
-* Check the updated wiki for more information
+* Fixed caching problem - the argument was inverted (Shashank)
+* Fixed ending callback timing (Shashank)
 
 
 Pending for next version
